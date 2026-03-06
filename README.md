@@ -1,13 +1,2 @@
-SingularityC2 is an AI-in-the-middle command and control framework for                 │
-  │   authorized penetration testing and security research. Operators interact with    │
-  │   the system through natural language; a local LLM (Ollama) interprets intent,     │
-  │   selects tools, and orchestrates execution on Windows targets. The AI sits        │
-  │   between the operator and the agent—translating high-level objectives into tool   │
-  │   calls, planning multi-step operations, and adapting strategy based on real-time  │
-  │   results. The framework supports passive (console-driven), autonomous, and hybrid │
-  │    modes, with a web-based dashboard for terminal access, chat, plugins, MCP       │
-  │   tools, file exploration, VNC, and reverse shells. It is designed for red teams   │
-  │   and researchers who want to leverage LLM reasoning for reconnaissance,           │
-  │   credential harvesting, persistence, and remote control while maintaining full    │
-  │   control over tool execution.
-  for educational purposes and authorized pen-test use only!!
+SingularityC2 is an AI-in-the-middle command and control framework for authorized penetration testing and security research. Operators interact with the system through natural language; a local LLM (Ollama) interprets intent,selects tools, and orchestrates execution on Windows targets. The AI sits between the operator and the agent—translating high-level objectives into tool calls, planning multi-step operations, and adapting strategy based on real-time results. The framework supports passive (console-driven), autonomous, and hybrid modes, with a web-based dashboard for terminal access, chat, plugins, MCP tools, file exploration, VNC, and reverse shells. It is designed for red teams and researchers who want to leverage LLM reasoning for reconnaissance,credential harvesting, persistence, and remote control while maintaining full control over tool execution.
+for educational purposes and authorized pen-test use only!!
